@@ -4,5 +4,5 @@ import uk.co.sammy.dto.MembershipStatusDTO;
 
 public interface MembershipDAO {
 
-	MembershipStatusDTO getStatusFor(String id);
+    MembershipStatusDTO getStatusFor(String id);
 }
